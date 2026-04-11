@@ -1,0 +1,6 @@
+# Data Manipulation
+pandas>=3.0.0
+numpy>=2.4.0
+
+# Performance & Modern Backend
+pyarrow>=23.0.1
