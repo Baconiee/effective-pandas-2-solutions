@@ -1,6 +1,6 @@
 .venv
 
-Chapter-1/
+*Chapters/
 
 .ipynb_checkpoints/
 __pycache__/
